@@ -1,0 +1,4 @@
+- title
+- teaser
+- length
+- speaker
